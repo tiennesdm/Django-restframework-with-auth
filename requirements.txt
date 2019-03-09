@@ -2,3 +2,4 @@ required
 python 3
 django 2.0
 djangorestframework
+django core headers
